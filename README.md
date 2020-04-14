@@ -7,6 +7,9 @@ https://drive.google.com/open?id=1f9kQa7CfHjxCt7pXuYfcXqoJsbgZdR7Z
 
 ![Rolling Pleater RC1](https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/media/Rolling%20Pleater%20RC1.PNG)
 
+
+![Commercial Rolers](https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/media/Commercial%20Rollers.PNG)
+
 **Goal:** Design an open source machine to automate production of surgical masks which approach or reach the ASTM-F2100-19 standard in response to COVID-19.
 
 **Strategy:** This machine will be broken up into modules. Modular design allows for development flexibility and redundancy. It also allows production to begin with temporary manual labor while development is completed. This will additionally allow for flexibility in deployment when different tools and materials must be used. This machine must be deployed yesterday in order to meet the needs of the medical community.
