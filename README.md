@@ -3,6 +3,8 @@
 
 This is a DIY machine designed to automate production of surgical masks in response to the COVID-19 pandemic. It's been developed at Artisan's Asylum, a non-profit makerspace in Somerville MA. 
 
+https://drive.google.com/open?id=1f9kQa7CfHjxCt7pXuYfcXqoJsbgZdR7Z
+
 **Goal:** Design an open source machine to automate production of surgical masks which approach or reach the ASTM-F2100-19 standard in response to COVID-19.
 
 **Strategy:** This machine will be broken up into modules. Modular design allows for development flexibility and redundancy. It also allows production to begin with temporary manual labor while development is completed. This will additionally allow for flexibility in deployment when different tools and materials must be used. This machine must be deployed yesterday in order to meet the needs of the medical community.
