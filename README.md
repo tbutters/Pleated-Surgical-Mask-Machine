@@ -3,17 +3,17 @@
 
 This is a DIY machine designed to automate production of surgical masks in response to the COVID-19 pandemic. It's been developed at Artisan's Asylum, a non-profit makerspace in Somerville MA. 
 
-Goal: Design an open source machine to automate production of surgical masks which approach or reach the ASTM-F2100-19 standard in response to COVID-19.
+**Goal:** Design an open source machine to automate production of surgical masks which approach or reach the ASTM-F2100-19 standard in response to COVID-19.
 
-Strategy: This machine will be broken up into modules. Modular design allows for development flexibility and redundancy. It also allows production to begin with temporary manual labor while development is completed. This will additionally allow for flexibility in deployment when different tools and materials must be used. This machine must be deployed yesterday in order to meet the needs of the medical community.
+**Strategy:** This machine will be broken up into modules. Modular design allows for development flexibility and redundancy. It also allows production to begin with temporary manual labor while development is completed. This will additionally allow for flexibility in deployment when different tools and materials must be used. This machine must be deployed yesterday in order to meet the needs of the medical community.
 
-Design Criteria:
+**Design Criteria:**
  - Do not try to exactly reproduce surgical masks - it is impractical to meet the quality afforded by an industrial process. 
  - Consider the 80/20 rule: If an 80% solution is viable in a significant fraction of use cases, we can get away with doing only 20% of the work.
  - Use commodity hardware.
  - Preference is given to components likely to be stocked in a well equipped shop.
 
-Module Requirements:
+**Module Requirements:**
  - Non woven material infeed
    - Should be spring loaded to provide back pressure
    - Adjustments for position and tracking
@@ -30,7 +30,7 @@ Module Requirements:
  - Motor drive
  - (optional) binning/stacking
 
-Module Development:
+**Module Development:**
  - Non woven material infeed
    - Welder spool mechanisms
  - Pleat former
@@ -58,13 +58,13 @@ Module Development:
  - (optional?) Top and bottom seal
    - Impulse sealers
 
-Considerations:
+**Major Considerations:**
  - Material Sourcing
  - Clean environment for production
  - Symptom monitoring for assembly workers
 
 
-(In progress) Resources:
+**(In progress) Resources:**
 Forums
 Patents
 Engineering Standards
