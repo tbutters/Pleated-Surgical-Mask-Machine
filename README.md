@@ -5,6 +5,10 @@ This is a DIY machine designed to automate production of surgical masks in respo
 
 https://drive.google.com/open?id=1f9kQa7CfHjxCt7pXuYfcXqoJsbgZdR7Z
 
+![Commercial Rolling Pleater V1](https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/media/Product%20Photos/IMG_3268.JPG)
+![Commercial Finger Pleater V1](https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/media/Product%20Photos/IMG_3282.JPG)
+![Commercial Finger Pleater V2](https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/media/Product%20Photos/IMG_3336.jpg)
+![Pleated Polypropylene](https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/media/Product%20Photos/IMG_3312.png)
 ![Rolling Pleater RC1](https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/media/Rolling%20Pleater%20RC1.PNG)
 
 
