@@ -1,5 +1,5 @@
 # Pleated-Surgical-Mask-Machine
-![Mask Machine Header](https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/P4130874.png)
+![Mask Machine Header](https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/media/Development%20Photos/P4130874.png)
 
 This is a DIY machine designed to automate production of surgical masks in response to the COVID-19 pandemic. It's been developed at Artisan's Asylum, a non-profit makerspace in Somerville MA. 
 
